@@ -26,7 +26,7 @@ This project is designed to demonstrate SQL skills and techniques typically used
 - **Table Creation**: The table `retail_sales` includes:
   - `transaction_id`, `sale_date`, `sale_time`, `customer_id`, `gender`, `age`, `category`, `quantity`, `price_per_unit`, `cogs`, and `total_sale`.
  
-'''sql
+```
 
 Create database p1_retail;
 use p1_retail;
@@ -45,6 +45,7 @@ create table retail_sales
         cogs FLOAT, 
         total_sale FLOAT
 	);
+```
 
  ### Data Exploration & Cleaning
 
