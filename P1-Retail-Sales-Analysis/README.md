@@ -46,7 +46,7 @@ create table retail_sales
 	);
 ```
 
- ### Data Exploration & Cleaning
+ ### 2. Data Exploration & Cleaning
 
  -**Record Count**: Determine the total number of records in the dataset.
  -**Customer Count**: Find out how many unique customers are in the dataset.
